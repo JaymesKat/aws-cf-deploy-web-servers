@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityIaaCProject"
+  },
+  {
+    "ParameterKey": "VpcIpRange",
+    "ParameterValue": "10.1.0.0/16"
+  },
+  {
+    "ParameterKey": "PubSubnet1IpRange",
+    "ParameterValue": "10.1.1.0/24"
+  },
+  {
+    "ParameterKey": "PubSubnet2IpRange",
+    "ParameterValue": "10.1.4.0/24"
+  },
+  {
+    "ParameterKey": "PrivSubnet1IpRange",
+    "ParameterValue": "10.1.2.0/24"
+  },
+  {
+    "ParameterKey": "PrivSubnet2IpRange",
+    "ParameterValue": "10.1.3.0/24"
+  },
+  {
+    "ParameterKey": "AmiImage",
+    "ParameterValue": "ami-0a634ae95e11c6f91"
+  }
+]
